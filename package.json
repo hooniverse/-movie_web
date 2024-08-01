@@ -39,5 +39,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://hooniverse.github.io/-movie_web"
+  "homepage": "https://hooniverse.github.io/-movie_web",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
